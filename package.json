@@ -1,0 +1,25 @@
+{
+  "name": "chalk-color-style-quiz",
+  "version": "0.1.2",
+  "description": "Color Style For Chalk",
+  "main": "chalkcolorquiz.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amiralariska/chalk-color-style-quiz"
+  },
+  "keywords": [
+    "chalk-color-style-quiz",
+    "chalk-color-style",
+    "color-style-quiz",
+    "color-style",
+    "chalk"
+  ],
+  "author": "Amiral Ariska",
+  "bugs": {
+    "url": "https://github.com/amiralariska/chalk-color-style-quiz/issues"
+  },
+  "homepage": "https://github.com/amiralariska/chalk-color-style-quiz#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
